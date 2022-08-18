@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @mrouillard
 - 👀 I’m interested in lots of things. Mainly programming, woodworking, electronics, microcontrollers, home automation
 - 🌱 I’m currently learning NodeJS, NodeRed, InfluxDB
-- 💞️ I’m looking to collaborate on some ReactNative apps
 - 📫 How to reach me : well...
 
 <!---
